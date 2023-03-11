@@ -7,7 +7,7 @@ Full Stack Web Developer & UJI/UX Designer
 I've been learning to code for 2 years, after switching careers. I have passion for Frontend development.
 
 * 🌍  I'm based in Ethiopia
-* 🖥️  See my portfolio at [Micky Zenebe](http://miki-zenebe.netlify.app)
+* 🖥️  See my portfolio at [Micky Zenebe](https://mikizenebe.vercel.app)
 * ✉️  You can contact me at [mikiyaszenebe10@gmail.com](mailto:mikiyaszenebe10@gmail.com)
 * 🧠  I'm learning Next.Js, TypeScript, CMS Platforms
 * 🤝  I'm open to collaborating on Frontend & UI/UX projects
