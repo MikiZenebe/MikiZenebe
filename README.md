@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer & UI/UX Designer
 ------------------------
 
-I've been learning to code for 2 years, after switching careers. I have passion for Frontend development.
+Software developer with a proven problem solving ability , adapt in ever-changing and challenging environments and also focused on achieving high quality results in a given deadline.
 
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [Micky Zenebe](https://mikiyaszenebe.vercel.app)
