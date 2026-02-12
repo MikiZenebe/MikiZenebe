@@ -1,7 +1,7 @@
 Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Mikiyas Zenebe
 ======================================================================================================================================
 
-Full Stack Web Developer & UI/UX Designer
+Frontend & Mobile App Developer
 ------------------------
 
 Software developer with a proven problem solving ability , adapt in ever-changing and challenging environments and also focused on achieving high quality results in a given deadline.
