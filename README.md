@@ -9,7 +9,6 @@ Software developer with a proven problem solving ability , adapt in ever-changin
 * 🌍  I'm based in Ethiopia
 * 🖥️  See my portfolio at [Micky Zenebe](https://mikiyaszenebe.vercel.app)
 * ✉️  You can contact me at [mikizenebe10@gmail.com](mailto:mikizenebe10@gmail.com)
-* 🧠  I'm learning Vue.Js, ReactNative
 * 🤝  I'm open to collaborating on Frontend & UI/UX projects
 
 ### Skills
