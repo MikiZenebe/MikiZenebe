@@ -1,4 +1,4 @@
-# 💫 Mikiyas Zenebe - Fronend & Mobile App Developer:
+# 💫 Mikiyas Zenebe - Frontend & Mobile App Developer
 🔭 I’m currently working on Frontend both Web App and Mobile App<br>👯 I’m looking to collaborate on Award Winning Web and Mobile App<br>🖥️ See my portfolio at https://mikiyaszenebe.vercel.app
 
 
